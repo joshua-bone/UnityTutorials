@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B23A58B1-2AC0-ACDF-29A8-D4352ED3DC40}") = "Tutorial 005 - Curves and Splines", "Assembly-CSharp.csproj", "{6BB772B5-33CD-0963-746C-91394C687D78}"
+EndProject
+Project("{B23A58B1-2AC0-ACDF-29A8-D4352ED3DC40}") = "Tutorial 005 - Curves and Splines", "Assembly-CSharp-Editor.csproj", "{2A6A6482-35FB-960B-FAFD-EAB4B2523062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB772B5-33CD-0963-746C-91394C687D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB772B5-33CD-0963-746C-91394C687D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB772B5-33CD-0963-746C-91394C687D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB772B5-33CD-0963-746C-91394C687D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6A6482-35FB-960B-FAFD-EAB4B2523062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6A6482-35FB-960B-FAFD-EAB4B2523062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6A6482-35FB-960B-FAFD-EAB4B2523062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6A6482-35FB-960B-FAFD-EAB4B2523062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
